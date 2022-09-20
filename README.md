@@ -13,7 +13,7 @@
   <img align="center" alt="Leo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Leo-pic" height="150" style="border-radius:50px;" src="https://gifs.eco.br/gifs-do-batman/](https://gifs.eco.br/wp-content/uploads/2022/07/gifs-do-batman-0.gif">
+  
 </div>
 <br>
  
