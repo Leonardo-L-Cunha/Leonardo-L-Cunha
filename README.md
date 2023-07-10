@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @Leonardo-L-Cunha
-- 👀 I’m interested in Progamação...
-- 🌱 I’m currently learning Progamação...
 
 
 <div align="center">
-  <a href="https://github.com/Leonardo-L-Cunha">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leonardo-L-Cunha&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-L-Cunha&layout=compact&langs_count=7&theme=dark"/>
+ 
 </div>
 
 <div style="display: inline_block"> 
